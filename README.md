@@ -23,6 +23,8 @@ Passionate about leading business development through software engineering team 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## 📈 GitHub Stats
 
@@ -36,7 +38,11 @@ Passionate about leading business development through software engineering team 
 
 I love to help the community by sharing my knowledge and experience. Here are my contributions on Stack Overflow that you can check:
 
-<a href="https://stackoverflow.com/users/7770919/ben"><img src="https://stackoverflow.com/users/flair/7770919.png" width="208" height="58" alt="profile for Ben at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ben at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+
+<div align="center">
+  <img src="https://so-stats-kurt-liao.vercel.app/api?user=7770919" height="120" alt="stack overflow stats"/>
+</div>
 
 ## 📫 How to reach me
 
