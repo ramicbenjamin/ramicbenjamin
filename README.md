@@ -39,9 +39,10 @@ Passionate about leading business development through software engineering team 
 I love to help the community by sharing my knowledge and experience. Here are my contributions on Stack Overflow that you can check:
 
 
-
 <div align="center">
-  <img src="https://so-stats-kurt-liao.vercel.app/api?user=7770919" height="120" alt="stack overflow stats"/>
+  <a href="https://stackoverflow.com/users/7770919/ben">
+    <img src="https://so-stats-kurt-liao.vercel.app/api?user=7770919" height="120" alt="stack overflow stats"/>
+  </a>
 </div>
 
 ## 📫 How to reach me
