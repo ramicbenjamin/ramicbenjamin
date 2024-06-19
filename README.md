@@ -39,7 +39,7 @@
 <h4 align="center">I help people on Stack Overflow</h4>
 
 <div align="center">
-  <a href="https://stackexchange.com/users/10547028"><img src="https://stackexchange.com/users/flair/10547028.png" width="208" height="58" alt="profile for Ben on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ben on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+  <a href="https://stackoverflow.com/users/7770919/ben"><img src="https://stackoverflow.com/users/flair/7770919.png" width="208" height="58" alt="profile for Ben at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ben at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
 ###
