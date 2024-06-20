@@ -24,6 +24,7 @@ Passionate about leading business development through software engineering team 
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=yellow)
 
 
 ## 📈 GitHub Stats
