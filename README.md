@@ -41,7 +41,7 @@ I love to help the community by sharing my knowledge and experience. Here are my
 
 <div align="center">
   <a href="https://stackoverflow.com/users/7770919/ben" target="_blank">
-    <img src="https://so-stats-kurt-liao.vercel.app/api?user=7770919" height="120" alt="stack overflow stats"/>
+    <img src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=7770919&period=year" height="170" alt="stack overflow stats"/>
   </a>
 </div>
 
