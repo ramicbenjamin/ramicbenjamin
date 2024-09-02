@@ -40,7 +40,7 @@ I love to help the community by sharing my knowledge and experience. Here are my
 
 
 <div align="center">
-  <a href="https://stackoverflow.com/users/7770919/ben"><img src="https://stackoverflow.com/users/flair/7770919.png" width="208" height="58" alt="profile for Ben at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ben at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  <a href="https://stackoverflow.com/users/7770919/ben"><img src="https://stackexchange-stats-flair.juanmi.rocks/?site=stackoverflow&user_id=7770919" width="208" height="58" alt="profile for Ben at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ben at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
 ## 📫 How to reach me
