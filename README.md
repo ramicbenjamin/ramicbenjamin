@@ -30,8 +30,9 @@ Passionate about leading business development through software engineering team 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramicbenjamin&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramicbenjamin&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="120" alt="languages graph"  />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramicbenjamin&layout=pie)](https://github.com/ramicbenjamin/github-readme-stats)
+  
 </div>
 
 ## 🤝 Community Contributions
@@ -40,8 +41,11 @@ I love to help the community by sharing my knowledge and experience. Here are my
 
 
 <div align="center">
-  <a href="https://stackoverflow.com/users/7770919/ben"><img src="https://stackexchange-stats-flair.juanmi.rocks/?site=stackoverflow&user_id=7770919" width="208" height="58" alt="profile for Ben at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ben at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+  [![ramic.benjamin StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7770919)](https://stackoverflow.com/users/7770919/ben)
+  
 </div>
+
 
 ## 📫 How to reach me
 
